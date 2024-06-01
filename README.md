@@ -1,6 +1,25 @@
-- 👋 Hi, I’m Shatakshi
-  
-<!---
-shatakshisachan051/shatakshisachan051 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](pizza.gif)
+
+
+
+<br>
+
+![](under-construction.gif)
+
+<br>
+
+check out my LinkedIn: [Icon Preview](https://www.linkedin.com/in/shatakshi-sachan-2a3b3128a/) 
+
+
+<br>
+<br>
+
+
+
+![](flames.gif)
