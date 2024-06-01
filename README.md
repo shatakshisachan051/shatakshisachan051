@@ -1,3 +1,7 @@
+**Hi my name is Shatakshi**&nbsp;&nbsp;
+<br>
+<br>
+
 <div align="center">
 	<img src="welcome-here.gif" alt="welcome to my github profile">
 	<br>
