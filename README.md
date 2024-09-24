@@ -1,5 +1,3 @@
-<a href="https://github.com/shatakshisachan051/views">
-    <img alt="views" title="GitHub views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views" /></a>
 
 **Hi my name is Shatakshi**&nbsp;&nbsp;
 <br>
