@@ -12,5 +12,5 @@
 
 <br>
 
-check out my LinkedIn: (https://www.linkedin.com/in/shatakshi-sachan-2a3b3128a/) 
+
 
