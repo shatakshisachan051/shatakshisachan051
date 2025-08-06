@@ -42,10 +42,9 @@ Welcome to my GitHub! I'm a developer focused on creating modern, user-centric a
 
 ---
 ### 📫 Connect with me:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shatakshisachan1017@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shatakshisachan051)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shatakshi-sachan-2a3b3128a/)
+Email- shatakshisachan1017@gmail.com
 
 
 ## 📈 GitHub Stats
